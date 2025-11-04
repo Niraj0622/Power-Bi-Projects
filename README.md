@@ -24,5 +24,4 @@ This repository showcases several business intelligence reports and dashboards I
 
 
 
----s://linkedin.com/in/yourprofile)  
-🔗 [Portfolio Website](https://yourwebsite.com)
+
