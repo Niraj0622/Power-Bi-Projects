@@ -19,6 +19,7 @@ This repository showcases several business intelligence reports and dashboards I
 - Quality improvement KPIs  
 
 📄 [View Report (PDF)] -> https://drive.google.com/file/d/13a7v96R9a1WhBikhAT_Qs85xWGM6EhF1/view?usp=sharing
+📁 [Download Power BI File (.pbix)](https://drive.google.com/file/d/1ptFwvOUb_QT-g9fbqF5g4fsQ3Oxoht9Q/view?usp=drive_link)
 
 
 
