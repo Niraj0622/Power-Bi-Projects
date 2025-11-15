@@ -24,6 +24,30 @@ This repository showcases several business intelligence reports and dashboards I
 
 
 
+# 📊 2.  Power BI Sales Dashboard
+
+An interactive **Power BI Sales Dashboard** designed to analyze sales, profit, regional performance, and trends.  
+This repository contains the dashboard file, demo video, and all supporting assets.
+
+## 🚀 Overview
+
+This dashboard provides a clear and intuitive view of key sales metrics, including:
+
+- Total Sales & Profit  
+- Category & Sub-category Performance  
+- Regional Analysis  
+- Monthly/Yearly Trends  
+- Interactive filtering & drill-downs  
+
+The goal of this project is to help stakeholders quickly understand business performance and identify improvement opportunities.
+
+---
+
+## 🗂️ Files Included
+
+- `[Sales Dashboard.pbix](https://drive.google.com/file/d/1XvlgsiVro0CK8wEn2wdOwPgQqfR7Oohf/view?usp=sharing)` — Power BI report  
+- `[Sales Dashboard clip.mp4](https://drive.google.com/file/d/1DPs1dvuDk84BlGgKc0k0wWH_o5T2tDbj/view?usp=sharing)` — interactive demo video 
+
 
 
 
