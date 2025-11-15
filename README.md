@@ -10,7 +10,7 @@ This repository showcases several business intelligence reports and dashboards I
 
 ## 🚀 Projects
 
-### 1. Monthly Quality Control Review - September
+# 1. Monthly Quality Control Review - September
 **Objective:** Analyze and monitor monthly quality metrics and performance indicators.  
 **Tools Used:** Power BI, Excel, DAX  
 **Key Insights:**  
